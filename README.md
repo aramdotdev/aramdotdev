@@ -1,5 +1,5 @@
 # ⚜️ About Me:
-💼 Business Informatics<br>📊 ERP<br>📈BI<br>⛓️ Blockchain<br>🤖 AI<br>🌍 Web-Development
+💼 Business Informatics<br>📊 ERP<br>📈 BI<br>⛓️ Blockchain<br>🤖 AI<br>🌍 Web-Development
 
 
 ## 🌐 Socials:
